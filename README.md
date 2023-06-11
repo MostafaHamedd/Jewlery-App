@@ -11,8 +11,8 @@ Below are some screenshots of the application:
 ![Liked](Liked.png)
 ![Cart](cart.png)
 ![Loading Page](loading_page.png)
-![Filter #1](filter%1.png)
-![Filter #2](filter%2.png)
+![Filter #1](filter#1.png)
+![Filter #2](filter#2.png)
 
 
 
