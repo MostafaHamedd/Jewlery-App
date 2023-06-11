@@ -12,7 +12,7 @@ Below are some screenshots of the application:
 ![Cart](cart.png)
 ![Loading Page](loading_page.png)
 ![Filter #1](filter%231.png)
-![Filter #2](filter#232.png)
+![Filter #2](filter%232.png)
 
 
 
