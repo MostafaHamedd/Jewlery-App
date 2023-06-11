@@ -1,6 +1,6 @@
 # Jewelry App
 
-This repository contains the code and assets for the Jewelry App project.
+This repository contains snippets for the Jewelry App project.
 
 ## Screenshots
 
